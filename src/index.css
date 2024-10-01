@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.sdk{
+    background-image: url(./assets/Card.webp);
+    background-size: cover;
+}
+.ibg{
+    background-image: url(./assets/Machine.webp);
+    background-size: cover;
+}
